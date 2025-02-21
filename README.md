@@ -107,7 +107,7 @@ Only perform this if this is the first time you will setup your Git Environment
       - Create a file named `MethodReturnTypes.java`.
       - Define the class `MethodReturnTypes` and the `main` method.
       ```Java      
-      public class MethodDemo {
+      public class MethodReturnTypes {
           public static void main(String[] args) {
       
           }
